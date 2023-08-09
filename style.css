@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+div{
+    color: aliceblue;
+    background-color: black;
+}
+
+.pai {
+display: flex;
+background-color: rgb(156, 4, 4);
+flex-direction: row-reverse;
+  }
+  
+  .pai > div {
+    background-color: #000000;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  h1{
+    color: aliceblue;
+  }
+  h1{
+    text-align: center;
+   
+ }
+
+a{
+    text-decoration: none;
+    color: rgb(255, 250, 251);
+}
+
+div{
+    color: rgb(150, 28, 28);
+}
